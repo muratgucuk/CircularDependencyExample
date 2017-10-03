@@ -1,0 +1,12 @@
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\bin\Debug\CircularDependency.exe.config
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\bin\Debug\CircularDependency.exe
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\bin\Debug\CircularDependency.pdb
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\obj\Debug\CircularDependency.csprojResolveAssemblyReference.cache
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\obj\Debug\CircularDependency.exe
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\obj\Debug\CircularDependency.pdb
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\bin\Debug\IMath.dll
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\bin\Debug\IProcessor.dll
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\bin\Debug\Processor.dll
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\bin\Debug\IMath.pdb
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\bin\Debug\IProcessor.pdb
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\bin\Debug\Processor.pdb

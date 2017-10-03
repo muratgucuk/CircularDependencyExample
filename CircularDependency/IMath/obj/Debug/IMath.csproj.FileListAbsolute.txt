@@ -1,0 +1,5 @@
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\IMath\bin\Debug\IMath.dll
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\IMath\bin\Debug\IMath.pdb
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\IMath\obj\Debug\IMath.csprojResolveAssemblyReference.cache
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\IMath\obj\Debug\IMath.dll
+C:\Users\mrt\Documents\GitHub\CircularDependencyExample\CircularDependency\IMath\obj\Debug\IMath.pdb
